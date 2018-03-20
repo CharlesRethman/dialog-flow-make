@@ -1,0 +1,22 @@
+{
+  "name": "dialog-flow-make-silly-name",
+  "version": "1.0.0",
+  "description": "Dialog flow tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser":              "^1.18.2",
+    "eslint":                   "^4.19.0",
+    "express":                  "^4.16.3",
+    "actions-on-google":        "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "dialog-flow",
+    "tutorial"
+  ],
+  "author": "Shannon",
+  "license": "ISC"
+}
