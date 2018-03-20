@@ -1,0 +1,3 @@
+[submodule "root-insurance-node"]
+	path = root-insurance-node
+	url = https://github.com/root-community/root-insurance-node.git
